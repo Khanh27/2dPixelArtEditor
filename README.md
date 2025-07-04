@@ -1,6 +1,6 @@
 # 🎨 2D Pixel Art Editor
 
-A lightweight, responsive pixel art editor built with **React** and **WebGL2**, designed for ease of use, performance, and modularity.
+A lightweight, responsive pixel art editor built with **React** and <canvas> API.
 
 ---
 
