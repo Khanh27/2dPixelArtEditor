@@ -21,5 +21,11 @@ A lightweight, responsive pixel art editor built with **React** and **WebGL2**, 
 git clone https://github.com/your-username/pixel-art-editor.git
 cd pixel-art-editor
 
+2. Install dependencies
+npm install
 
+3. Start the development server:
+npm run dev
 
+4. Open your browser and go to:
+http://localhost:5173
